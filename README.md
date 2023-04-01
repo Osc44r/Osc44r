@@ -1,4 +1,4 @@
-# Hi there, I'm Oskar 👋
+# Hi there, I'm Oscar 👋
 
 I'm a Python developer specializing in automation and arbitrage trading. I love creating bots that can help me automate repetitive tasks and find profitable opportunities in the market.
 
