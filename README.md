@@ -1,7 +1,21 @@
-# Hi there, I'm Oscar 👋
+# Hello, I'm Oskar! 👋
 
-I'm a Python developer specializing in automation and arbitrage trading. I love creating bots that can help me automate repetitive tasks and find profitable opportunities in the market.
+## Python Developer & Automation Enthusiast
 
-## My Projects
+I'm passionate about leveraging Python to automate complex tasks and uncover hidden opportunities. From backend systems to real-time data analytics, I love pushing the boundaries of what's possible.
 
-Unfortunately, most of my repositories are private as they contain sensitive information related to my trading strategies. However, I can tell you that I use web automation extensively to gain an edge in the market.
+## 🛠️ Tech Stack
+- Python
+- REST API
+- Flask
+- MongoDB
+- Web Automation
+- Real-Time Data Analytics
+
+## 🌱 What I'm Focused On
+- Continuously improving my automation skills.
+- Exploring innovative solutions in Python backend development.
+- Always up for a challenge and eager to collaborate on groundbreaking tech projects.
+
+## 📦 My Projects
+While I can't share specifics due to the confidential nature of my work, I specialize in creating high-impact automation tools that provide a competitive edge in various markets.
