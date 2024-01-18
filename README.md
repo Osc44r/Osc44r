@@ -7,7 +7,8 @@ I'm passionate about leveraging Python to automate complex tasks and uncover hid
 ## 🛠️ Tech Stack
 - Python
 - REST API
-- Flask
+- FastAPI
+- Redis
 - MongoDB
 - Web Automation
 - Real-Time Data Analytics
