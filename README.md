@@ -1,22 +1,19 @@
 # Hello, I'm Oskar! 👋
 
-## Python Developer & Automation Enthusiast
+## Cloud Engineer & Full Stack Developer
 
-I'm passionate about leveraging Python to automate complex tasks and uncover hidden opportunities. From backend systems to real-time data analytics, I love pushing the boundaries of what's possible.
+I'm a versatile engineer specializing in scalable cloud infrastructure, automation, and full stack development. My experience spans backend optimization, frontend integration, and DevOps, where I apply tools like Docker, Kubernetes, Terraform, and FastAPI to build resilient systems. I’m passionate about leveraging cloud technologies to streamline complex processes, improve uptime, and drive efficiency in tech projects.
 
 ## 🛠️ Tech Stack
-- Python
-- REST API
-- FastAPI
-- Redis
-- MongoDB
-- Web Automation
-- Real-Time Data Analytics
+- **Cloud & DevOps**: Docker Swarm, Kubernetes, Terraform
+- **Backend**: Python, FastAPI, RESTful APIs, Redis, MongoDB, RabbitMQ
+- **Frontend**: Vue.js, TypeScript
+- **Automation & Microservices**: CI/CD with GitHub Actions, Microservices Architecture, Web Scraping (BeautifulSoup, Selenium)
 
 ## 🌱 What I'm Focused On
-- Continuously improving my automation skills.
-- Exploring innovative solutions in Python backend development.
-- Always up for a challenge and eager to collaborate on groundbreaking tech projects.
+- Innovating with cloud-based solutions and “Everything as Code” for maintainable infrastructure.
+- Enhancing full stack projects with real-time data handling and interactive dashboards.
+- Currently working on [Express-Load.com](https://express-load.com), a SaaS API Gateway for Steam Inventory, where I’ve built a scalable backend and frontend system to handle high-volume requests and monitor data insights.
 
 ## 📦 My Projects
-While I can't share specifics due to the confidential nature of my work, I specialize in creating high-impact automation tools that provide a competitive edge in various markets.
+While I often work on confidential, high-impact tools, you can see my public contributions and some of my notable work like Express-Load.com, where I implemented automated CI/CD, secure API integrations, and a Vue.js-based analytics dashboard.
